@@ -1,2 +1,1 @@
-# 2023ws_do_ua
-Lecture Digital Organisation, CW from Ulrich Anders
+# 2023ws.do_MZ
